@@ -1,5 +1,5 @@
-# Asessing Chronic Opioid Use using Medical Expenditure Panel Survey (MEPS) Data
-R Code and Analysis of the Prevalence and Associated Risk Factors of Chronic Opioid Use Following Inpatient Spine Surgery: An Analysis of the Medical Expenditure Panel Survey Data From 2009 to 2016.
+# MEPS Analysis: Asessing Chronic Opioid Use
+This repository contains R Code used to perform analysis of the prevalence and associated risk factors of chronic opioid use following inpatient spine surgery using medical expenditure panel survey data from 2009 to 2016.
 The HHS-AHRQ/MEPS Github may be accessed at https://github.com/HHS-AHRQ/MEPS.
 The MEPS data files may be accessed at https://meps.ahrq.gov/mepsweb/data_stats/download_data_files.jsp.
 
